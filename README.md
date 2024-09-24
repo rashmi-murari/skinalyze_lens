@@ -36,7 +36,7 @@ Epiderma Lens utilizes a deep learning approach to identify and classify skin di
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/epiderma-lens.git
+git clone https://github.com/rashmi-murari/skinalyze_lens.git
 cd epiderma-lens
 ```
 ---
