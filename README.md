@@ -1,4 +1,4 @@
-# Epiderma Lens
+Skinalyze Lens
 
 Epiderma Lens is a Machine Learning & Deep Learning based tool designed to detect and classify skin diseases using convolutional neural networks (CNNs). The model is trained on images of different skin conditions and can predict the presence of various skin diseases.
 
